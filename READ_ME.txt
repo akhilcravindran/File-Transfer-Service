@@ -47,6 +47,15 @@
 
 
 ===========================
+   NOTES
+===========================
+
+⚠ Create a folder named resources inside where the .exe file is present.
+
+⚠ If you want to keep change the logos used, keep the new logos as .PNG files in this path and use the same names(company_logo.PNG,fts_logo.PNG).
+
+
+===========================
        LIMITATIONS
 ===========================
 
