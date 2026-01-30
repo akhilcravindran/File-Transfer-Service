@@ -8,7 +8,7 @@
 
 ✔ The UI is built using the Tkinter library in Python.
 
-✔ Designed to interact with FTS APIs in a user-friendly way, as an alternative to Postman.
+✔ Designed to interact with FTS APIs in a user-friendly way, as an alternative to Postman for simplicity.
 
 
 ===========================
