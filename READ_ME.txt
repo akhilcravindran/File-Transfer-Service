@@ -37,7 +37,7 @@
   - Logs are stored in the `log/ftsapp.log` file.
 
 ✔ Grid Sorting  
-  - Sort files by size, name, or date in the grid view.
+  - Sort files by size, name, or date in the grid view of this app.
 
 ✔ Export Grid Data  
   - Download the grid data as a CSV file to your local system.
