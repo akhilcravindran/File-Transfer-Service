@@ -6,7 +6,7 @@
 
 ✔ This is a Python-based User Interface for File Transfer Service (FTS) APIs to manage files efficiently.
 
-✔ The UI is built using the Tkinter library in Python.
+✔ The UI is built using the Tkinter library in Python language.
 
 ✔ Designed to interact with FTS APIs in a user-friendly way, as an alternative to Postman for simplicity.
 
