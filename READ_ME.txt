@@ -6,7 +6,7 @@
 
 ✔ This is a Python-based User Interface for File Transfer Service (FTS) APIs to manage files efficiently.
 
-✔ The UI is built using the Tkinter library in Python.
+✔ The UI is built using the Tkinter library in Python language.
 
 ✔ Designed to interact with FTS APIs in a user-friendly way, as an alternative to Postman for simplicity.
 
@@ -37,7 +37,7 @@
   - Logs are stored in the `log/ftsapp.log` file.
 
 ✔ Grid Sorting  
-  - Sort files by size, name, or date in the grid view.
+  - Sort files by size, name, or date in the grid view of this app.
 
 ✔ Export Grid Data  
   - Download the grid data as a CSV file to your local system.
